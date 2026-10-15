@@ -17,7 +17,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 11
 
-<h2>Post-Install Configuration Objectives</h2>
+
 
 - Item 1
 - Item 2
