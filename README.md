@@ -46,7 +46,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="894" height="536" alt="Screenshot_11-10-2026_185213_coursecareers com" src="https://github.com/user-attachments/assets/5b9d1ae9-b0b6-4143-b302-e07cff729510" />
+<img width="892" height="543" alt="Screenshot_11-10-2026_185325_coursecareers com" src="https://github.com/user-attachments/assets/d2d8c4fb-7f94-4fbd-9ed5-b3e1c53e5bb2" />
+
 
 </p>
 <p>
