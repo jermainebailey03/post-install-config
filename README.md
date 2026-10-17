@@ -28,7 +28,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="1140" height="769" alt="Screenshot_3-9-2026_212342_coursecareers com" src="https://github.com/user-attachments/assets/e43f580f-bf89-4d73-9e44-6b2d981c4983" />
+<img width="854" height="945" alt="Screenshot_9-10-2026_21932_coursecareers com" src="https://github.com/user-attachments/assets/c5d91074-46a4-4cde-9384-c09b29f1fe3a" />
+
 
 
 </p>
