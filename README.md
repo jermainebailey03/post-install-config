@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="910" height="583" alt="Screenshot_11-10-2026_182535_coursecareers com" src="https://github.com/user-attachments/assets/46462321-60a0-443a-9c92-dd71ce0162e3" />
+<img width="760" height="589" alt="Screenshot_11-10-2026_175520_coursecareers com" src="https://github.com/user-attachments/assets/ce7aafc1-e987-4bc6-a729-faf90947d588" />
 
 </p>
 <p>
@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="892" height="543" alt="Screenshot_11-10-2026_185325_coursecareers com" src="https://github.com/user-attachments/assets/d2d8c4fb-7f94-4fbd-9ed5-b3e1c53e5bb2" />
+<img width="760" height="679" alt="Screenshot_11-10-2026_174227_coursecareers com" src="https://github.com/user-attachments/assets/bbe9a455-46ac-437d-8292-08995ac40a97" />
 
 
 </p>
