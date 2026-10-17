@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-In this Lab, Assigned Permissions and Privileges are being assign to Admins as well as users. 
+In this Lab, the purpose is to make sure all the Configurations are in place. Double checking to make sure Assigned Permissions and Privileges are being assign to Admins as well as to users. Verifying If any new Permissions need to be set/configured to Everyone or just to User's accounts. If any Configuration has to be made, it has been documented and future adjustments will be made.
 </p>
 <br />
 
