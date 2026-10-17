@@ -49,11 +49,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="760" height="679" alt="Screenshot_11-10-2026_174227_coursecareers com" src="https://github.com/user-attachments/assets/bbe9a455-46ac-437d-8292-08995ac40a97" />
+<img width="855" height="861" alt="Screenshot_9-10-2026_20445_coursecareers com" src="https://github.com/user-attachments/assets/a283803e-f0a0-430b-8f88-a2e35ca46613" />
 
 
 </p>
 <p>
-In this lab, IIS was open as An Admin and Registered PHP from within IIS (PHP Manager). Some extensions were enable/disable, went back into IIS sites, defaulted osTicket and Enable php_imap dll, php_intl dll, and php_opcache dll extensions. Next step was to Refresh the osTicket page and  observe the changes.
+In this lab, IIS was open as an Admin and Registered PHP from within IIS (PHP Manager). Some extensions were enable/disable, went back into IIS sites, defaulted osTicket and Enable php_imap dll, php_intl dll, and php_opcache dll extensions. Next step was to Refresh the osTicket page and  observe the changes.
 </p>
 <br />
