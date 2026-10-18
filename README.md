@@ -39,12 +39,12 @@ In this Lab, the purpose is to make sure all the Configurations are in place. Do
 <br />
 
 <p>
-<img width="760" height="589" alt="Screenshot_11-10-2026_175520_coursecareers com" src="https://github.com/user-attachments/assets/7b5eb7f1-6845-4fd3-9f64-7b7bb60b92eb" />
+<img width="892" height="543" alt="Screenshot_11-10-2026_185325_coursecareers com" src="https://github.com/user-attachments/assets/b41bacbe-0a90-4eb6-83f9-2993ac290e87" />
 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the final stages, during Configuration having a strong SLA agreement was beneficial/important. Having a strong SLa gives outside vendors that insurance/safety net that the Org. I work for has rules and regulations set in place that will be upheld and represented within Compliance.
 </p>
 <br />
 
