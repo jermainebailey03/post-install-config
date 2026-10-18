@@ -44,7 +44,7 @@ In this Lab, the purpose is to make sure all the Configurations are in place. Do
 
 </p>
 <p>
-In the final stages, during Configuration having a strong SLA agreement was beneficial/important. Having a strong SLa gives outside vendors that insurance/safety net that the Org. I work for has rules and regulations set in place that will be upheld and represented within Compliance.
+In the final stages, during Configuration having a strong SLA agreement was beneficial/important. Having a strong SLA gives outside vendors that insurance/safety net that the Org. I work for has rules and regulations set in place that will be upheld and represented within Compliance.
 </p>
 <br />
 
