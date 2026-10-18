@@ -19,11 +19,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1. Configure Departments
+- Item 2. Configure Teams
+- Item 3. Allow registered users to create tickets
+- Item 4. Configure Agents
+- Item 5. Configure SLA (workers)
 
 <h2>Configuration Steps</h2>
 
@@ -44,7 +44,7 @@ In this Lab, the purpose is to make sure all the Configurations are in place. Do
 
 </p>
 <p>
-In the final stages, during Configuration having a strong SLA agreement was beneficial/important. Having a strong SLA gives outside vendors that insurance/safety net that the Org. I work for has rules and regulations set in place that will be upheld and represented within Compliance.
+In the final stages, during Configuration having a strong SLA agreement was beneficial/important. Having a strong SLA gives outside vendors that insurance/safety net that the Orginazation has rules and regulations set in place that will be upheld and represented within Compliance.
 </p>
 <br />
 
